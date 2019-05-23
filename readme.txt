@@ -1,9 +1,4 @@
-Operating Systems Security(IE2032)Assignment
 
-Task 2
-
-ID No: IT18175530
-Name : Madhuvantha K.A.N.
 
 Instructions for run the program
 	./<program name>space<action>
